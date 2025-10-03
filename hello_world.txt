@@ -1,1 +1,3 @@
 Hello this is Danny's first time experimenting with Git!
+
+Testing git commit without a message.
